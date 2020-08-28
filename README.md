@@ -1,3 +1,2 @@
 # wngnstyle.me
-Website for web programming
-Dillon Davis
+Website for web programming. Dillon Davis
