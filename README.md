@@ -1,4 +1,3 @@
-# wngnstyle.me
-Website for web programming. Dillon Davis
+<p> Dillon Davis </p>
 <p> I have a dog </p>
 <p> He is brown </p>
