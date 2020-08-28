@@ -1,2 +1,2 @@
-# WanganDillon.github.io
-Website for web programming
+# wngnstyle.me
+Website for web programming. Dillon Davis
